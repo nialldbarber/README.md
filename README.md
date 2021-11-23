@@ -4,7 +4,7 @@
   </a>
 <div>
   
-<h3 align="center">Hi there :wave:</h3>
+<h3 align="center">Hey there :wave:</h3>
 
 <p align="center">
   <a href="https://nialldbarber.com/" target="_blank">Personal Site</a> •
@@ -14,6 +14,6 @@
 
 My name is Niall Barber and I'm a front-end developer with 5+ years experience working in multiple different environments. I currently work for a software house, making an app in-house but have also worked for agencies for around three years in the past.
 
-I primarily work with <span style="color:#61dafb">React</span>, Typescript, Redux and styled components, but also have experience in Vue, Svelte and React Native. I also like to tinker around withh back end technologies such as Node, GraphQL, MongoDB, MySQL and Rust. 
+I primarily work with <span style="color:#61dafb">React</span>, Typescript, Redux and styled components, but also have experience in Vue, Svelte and React Native. I also like to tinker around with back end technologies such as Node, GraphQL, MongoDB, MySQL and Rust. 
 
 Check out some of my doodles :relaxed:
