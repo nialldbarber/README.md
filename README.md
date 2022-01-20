@@ -6,10 +6,6 @@
   <a href="https://www.instagram.com/nialldbarber/" target="_blank">Instagram</a> •
   <a href="https://www.linkedin.com/in/niall-barber/" target="_blank">LinkedIn</a>
 </p>
-
-<p align="center">
-•  
-</p>
 <p align="center">
 Check out some of my doodles :relaxed:
 </p>
