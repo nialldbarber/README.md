@@ -9,5 +9,7 @@
 
 <p align="center">
 •  
+</p>
+<p align="center">
 Check out some of my doodles :relaxed:
 </p>
